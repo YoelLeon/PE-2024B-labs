@@ -2,11 +2,12 @@
 
 Repositorio con los laboratorios del curso **Plataformas Emergentes (E)**, Escuela Profesional de Ingeniería de Sistemas, Universidad Nacional de San Agustín.
 
-**Docente:** M. Sc. Ing. R. Fabrizio Calienes Rodríguez
+**Docente:** MBA Mg. Ing. RENE ALONSO NIETO VALENCIA.
 **Integrantes del grupo:**
-- Nombre Apellido — código
-- Nombre Apellido — código
-- Nombre Apellido — código
+-Carrasco Choque Arlen Melvin
+-Condori Leon Joel Isaias
+-Yana Agramonte Luis Efrain 
+
 
 ---
 
