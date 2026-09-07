@@ -1,13 +1,13 @@
-# Plataformas Emergentes (E) — Laboratorios 2024B
+# Plataformas Emergentes (E) — Laboratorios 2026B
 
 Repositorio con los laboratorios del curso **Plataformas Emergentes (E)**, Escuela Profesional de Ingeniería de Sistemas, Universidad Nacional de San Agustín.
 
 **Docente:** MBA Mg. Ing. RENE ALONSO NIETO VALENCIA.
 **Integrantes del grupo:**
 
--Carrasco Choque Arlen Melvin
--Condori Leon Joel Isaias
--Yana Agramonte Luis Efrain 
+- Carrasco Choque Arlen Melvin
+- Condori Leon Joel Isaias
+- Yana Agramonte Luis Efrain 
 
 
 ---
