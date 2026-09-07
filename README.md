@@ -4,6 +4,7 @@ Repositorio con los laboratorios del curso **Plataformas Emergentes (E)**, Escue
 
 **Docente:** MBA Mg. Ing. RENE ALONSO NIETO VALENCIA.
 **Integrantes del grupo:**
+
 -Carrasco Choque Arlen Melvin
 -Condori Leon Joel Isaias
 -Yana Agramonte Luis Efrain 
